@@ -5,7 +5,7 @@
 
 # 特别感谢
 
-本项目的动力来源于[AcademicDog](file:///C:\Users\16406\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png)https://github.com/AcademicDog),之前用了这位大佬的脚本才决定自己写.
+本项目的动力来源于[AcademicDog](https://github.com/AcademicDog),之前用了这位大佬的脚本才决定自己写.
 
 感谢csdn博主[梦里蓝天](https://blog.csdn.net/ren365880/article/details/103968044) 给予的opencv图片识别思路
 
