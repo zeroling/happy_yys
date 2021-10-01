@@ -1,11 +1,11 @@
 # 阴阳师开心脚本
 
 本工具用于阴阳师代肝,为各位大佬护肝所用.
-![DEMO](https://github.com/qq1640691/happy_yys/blob/main/src/demo.png"展示界面")
+![DEMO](https://github.com/qq1640691/happy_yys/blob/main/src/demo.png)
 
 # 特别感谢
 
-本项目的动力来源于[AcademicDog](![img](file:///C:\Users\16406\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png)https://github.com/AcademicDog),之前用了这位大佬的脚本才决定自己写.
+本项目的动力来源于[AcademicDog](file:///C:\Users\16406\AppData\Roaming\Tencent\QQTempSys\%W@GJ$ACOF(TYDYECOKVDYB.png)https://github.com/AcademicDog),之前用了这位大佬的脚本才决定自己写.
 
 感谢csdn博主[梦里蓝天](https://blog.csdn.net/ren365880/article/details/103968044) 给予的opencv图片识别思路
 
