@@ -1,7 +1,7 @@
 # 阴阳师开心脚本
 
 本工具用于阴阳师代肝,为各位大佬护肝所用.
-![DEMO](https://github.com/qq1640691/happy_yys/blob/main/src/demo.png)
+![DEMO](https://github.com/qq1640691/happy_yys/blob/main/src/demo%20.png)
 
 # 特别感谢
 
